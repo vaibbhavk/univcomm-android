@@ -3,11 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1795" />
+        <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1795" />
+        <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/drawable/ic_picsvg_download.xml" value="0.1795" />
+        <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/drawable/ic_splash.xml" value="0.1795" />
+        <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/drawable/ic_splash_icon.xml" value="0.1795" />
+        <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/drawable/ic_wzbsar01.xml" value="0.1795" />
         <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/font/font.xml" value="0.25833333333333336" />
-        <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/layout/activity_splash.xml" value="0.15789473684210525" />
         <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/layout/button_default.xml" value="0.25" />
+        <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/layout/card.xml" value="0.15789473684210525" />
+        <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/layout/fragment_blank.xml" value="0.15789473684210525" />
+        <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/layout/fragment_converter.xml" value="0.15789473684210525" />
         <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/layout/fragment_login.xml" value="0.15789473684210525" />
         <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/layout/fragment_register.xml" value="0.15789473684210525" />
+        <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/layout/fragment_welcome.xml" value="0.15789473684210525" />
+        <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/layout/logo_image_view.xml" value="0.15789473684210525" />
         <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/layout/register.xml" value="0.15789473684210525" />
         <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/layout/text_button.xml" value="0.24895833333333334" />
         <entry key="..\:/Projects/Android/Univcomm/app/src/main/res/layout/text_input.xml" value="0.15723684210526315" />
