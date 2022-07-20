@@ -16,4 +16,9 @@
     <string name="select_to_login_or_logout">Select to login or logout</string>
     <string name="or">or</string>
     <string name="join_now">Join now</string>
+    <string name="home">Home</string>
+    <string name="notifications">Notifications</string>
+    <string name="search">Search</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>
