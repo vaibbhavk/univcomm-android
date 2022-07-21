@@ -1,6 +1,8 @@
 
 ![Logo](https://github.com/vaibbhavk/univcomm-android/blob/main/app/src/main/res/drawable-nodpi/logo.png?raw=true "Logo")
 
+<img src="https://github.com/vaibbhavk/univcomm-android/blob/main/app/src/main/res/drawable-nodpi/logo.png" width=50% height=50%>
+
 
 # Univcomm
 
